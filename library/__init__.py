@@ -1,2 +1,2 @@
-print('LIBRARY v0.0.1')
+print('LIBRARY no version')
 
